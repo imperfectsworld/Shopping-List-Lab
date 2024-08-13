@@ -1,0 +1,14 @@
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\bin\Debug\net8.0\Shopping List Lab.exe
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\bin\Debug\net8.0\Shopping List Lab.deps.json
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\bin\Debug\net8.0\Shopping List Lab.runtimeconfig.json
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\bin\Debug\net8.0\Shopping List Lab.dll
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\bin\Debug\net8.0\Shopping List Lab.pdb
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\Shopping List Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\Shopping List Lab.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\Shopping List Lab.AssemblyInfo.cs
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\Shopping List Lab.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\Shopping List Lab.dll
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\refint\Shopping List Lab.dll
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\Shopping List Lab.pdb
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\Shopping List Lab.genruntimeconfig.cache
+C:\Users\imper\source\repos\Shopping List Lab\Shopping List Lab\obj\Debug\net8.0\ref\Shopping List Lab.dll
